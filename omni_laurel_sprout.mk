@@ -21,7 +21,7 @@ PRODUCT_RELEASE_NAME := laurel_sprout
 $(call inherit-product, build/target/product/embedded.mk)
 
 # Inherit from our custom product configuration
-$(call inherit-product, vendor/omni/config/common.mk)
+$(call inherit-product, vendor/pb/config/common.mk)
 
 # Inherit from laurel_sprout device
 $(call inherit-product, device/xiaomi/laurel_sprout/device.mk)
