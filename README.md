@@ -1,5 +1,5 @@
 
-# SHRP Device Tree for Mi A3 (laurel_sprout)
+# PBRP Device Tree for Mi A3 (laurel_sprout)
 
 The Mi A3 (codenamed "laurel_sprout") is a mid-range smartphone from Xiaomi. It was announced and released in July 2019.
 
